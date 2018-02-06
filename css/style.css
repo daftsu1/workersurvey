@@ -1,0 +1,33 @@
+.navbar-text1{
+	color: white;
+	text-align: right;
+}
+
+.delete-work{
+	padding-left: 20px;
+}
+
+.edit-work{
+	padding-left:: 20px;
+}
+
+#containermain{
+	background-color: #FF8C00;
+}
+
+#editbutton{
+	background-color: #7CFC00;
+}
+
+#deletebutton{
+	background-color: red;
+}
+
+#addwork{
+	background-color: #337ab7;
+	color: white;
+}
+
+.actioncolumn{
+	text-align: center;
+}
